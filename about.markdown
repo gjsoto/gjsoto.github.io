@@ -6,6 +6,10 @@ permalink: /about/
 
 ## Gabriel J. Soto, PhD
 
+<p align="center">
+  <img src="/assets/cornell_headshot.JPG" />
+</p>
+
 I am a post-doctoral research associate at the University of Madison-Wisconsin. I currently work in the [ReTI][reti-url] (Reactor Technology Innovations) Group with Professor Ben Lindley. My research interests include modeling, simulation, and optimization of nuclear and renewable energy systems and spacecraft operations. 
 
 I received my B.S. in Aerospace Engineering from the University of Miami in 2015 with a dual major in Physics. In our group senior capstone project, I served as the thermal systems lead and designed the chassis of a 6U CubeSat capable of atmospheric re-entry. The main objective of the small spacecraft was to gather albedo measurements from the polar ice caps.
@@ -14,8 +18,6 @@ I received my M.S. and PhD in Aerospace Engineering from Cornell University in 2
 
 I am currently working on two separate research projects: one on integrated nuclear and solar energy systems, the other on flexible operation of small modular nuclear reactors (SMR). The integrated energy systems project centers on energy storage and dispatch from both a lead-cooled fast nuclear reactor and a molten salt power tower concentrated solar plant. Optimized dispatch is used to maximize energy production and revenue during high demand times. The project is funded and in collaboration with [INL][inl] and [NREL][nrel]. The SMR project focuses on prognostic health monitoring of the [NuScale][nuscale] plant nuclear units and long term effects of flexible power operation on the remaining usable life of the full system. The project is also in collaboration with INL.
 
-
-![](/assets/cornell_headshot.JPG)
 
 
 [reti-url]: https://reti.ep.wisc.edu/projects/
