@@ -6,6 +6,8 @@ permalink: /about/
 
 ## Gabriel J. Soto, PhD
 
+[full CV]({{ site.url }}/assets/full_cv.pdf)
+
 <p align="center">
   <img src="/assets/cornell_headshot.JPG" />
 </p>
